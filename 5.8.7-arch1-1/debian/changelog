@@ -1,0 +1,5 @@
+linux-5.8.7-arch1-1 (5.8.7-arch1-1-1) focal; urgency=low
+
+  * Custom built Linux kernel.
+
+ -- root <root@GriggoriiX64>  Wed, 09 Sep 2020 20:56:36 +0800
